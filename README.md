@@ -46,7 +46,7 @@ Multiple models were trained and evaluated. Hyperparameter tuning and cross-vali
 Accuracy: ~95% (varies by model)
 
 ROC-AUC: ~0.88
-![png](Screenshot 2025-06-10 150445.png)
+
 
 Feature Importance: Transaction amount and balance difference were key predictors
 
