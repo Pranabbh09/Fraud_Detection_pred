@@ -59,5 +59,5 @@ The project includes a set of test inputs to evaluate the model. These help veri
 
 🙋‍♂️ Author
 Pranab Bhardwaj
-🔗 LinkedIn | 📫 pranabbhardwaj29@gmail.com
+[🔗 LinkedIn](https://www.linkedin.com/in/pranab-bhardwaj29/) | 📫 pranabbhardwaj29@gmail.com
 
